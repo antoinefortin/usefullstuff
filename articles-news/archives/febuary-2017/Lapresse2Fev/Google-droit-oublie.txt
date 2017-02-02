@@ -1,0 +1,52 @@
+Google: la France se penche sur le «droit à l'oubli»
+
+Le «droit à l'oubli» s'arrête-t-il aux frontières des États ? C'est ce dont doit débattre jeudi après-midi le Conseil d'État, saisi par Google après sa condamnation par la CNIL pour ne pas avoir déréférencé des informations sur la totalité des extensions de son moteur de recherche.
+
+La Commission nationale informatique et libertés (CNIL) avait condamné en mars le géant américain à 100 000 euros d'amende pour ne pas avoir respecté, selon elle, le principe de «droit à l'oubli», en refusant de retirer ces informations de ses moteurs hors d'Europe.
+
+Google conteste cette décision. Le groupe estime que la CNIL n'a pas la moindre compétence hors de France, ce qui justifie son appel auprès du Conseil d'État.
+
+La demande de Google est présentée devant l'Assemblée du contentieux, présidée par le vice-président du Conseil d'État, qui compte 17 membres parmi les plus importants de la juridiction suprême. Ils écouteront les conclusions du rapporteur public puis les commentaires des avocats du groupe américain.
+
+Traditionnellement, l'Assemblée du contentieux se réunit pour des affaires d'importance exceptionnelle, notamment lorsque aucune jurisprudence n'existe dans le domaine concerné, ce qui est le cas du droit à l'oubli.
+
+L'affaire découle directement d'une décision de la Cour de justice de l'Union européenne (CJUE) qui a consacré le «droit à l'oubli» numérique en mai 2014, en donnant aux citoyens --sous certaines conditions-- la possibilité d'obtenir des moteurs de recherche le déréférencement d'informations les concernant directement.
+
+Concrètement, la CJUE estimait que les données personnelles devaient être traitées «loyalement» et «licitement», être considérées comme «adéquates, pertinentes et non excessives au regard des finalités pour lesquelles elles sont collectées».
+
+Dans le cas contraire, le moteur de recherche a l'obligation de supprimer les liens contestés après une recherche portant sur le nom de la personne - sachant que les sites incriminés seront toujours accessibles en cherchant avec d'autres mots-clés -, si cette dernière en fait la demande.
+
+«Un débat sur l'extraterritorialité»?
+
+Bien que contestant la décision de la CJUE, Google a mis un formulaire à la disposition de tout internaute désirant qu'une information à son sujet n'apparaisse plus dans le moteur de recherche lorsque son nom est saisi.
+
+En cas de refus de Google, le citoyen peut s'adresser à un juge ou, le plus souvent, à la CNIL. Celle-ci a reçu un millier de plaintes à ce jour, dont 30% ont été jugées légitimes, et transmises au groupe américain.
+
+Dans 75% des cas, ce dernier répond favorablement aux demandes de la CNIL, selon cette dernière.
+
+Mais si Google a finalement accepté d'appliquer ce principe du «droit à l'oubli», il n'a fait disparaître les résultats que pour les recherches effectuées à partir des extensions européennes de son site. Comme google.fr en France ou google.it pour l'Italie, mais pas google.com, l'adresse principale du moteur, ni ses déclinaisons hors d'Europe.
+
+Une situation que la CNIL n'a pas appréciée, finissant par condamner le géant de l'internet en estimant que le droit au déréférencement ne doit pas varier en fonction de l'origine géographique des internautes.
+
+Pour justifier son appel devant le Conseil, le groupe a estimé que «la CNIL en tant qu'autorité nationale en France n'a pas ce pouvoir, de par la loi française, d'imposer des mesures hors de ses frontières».
+
+«Ce n'est plus un débat sur le droit à l'oubli --et d'ailleurs on ne le met pas en cause--, c'est vraiment un débat plus général sur l'extraterritorialité, la disponibilité des contenus de par le monde», a argué en mai dernier Yoram Elkaim, directeur juridique de Google pour l'Europe, l'Afrique et le Moyen-Orient.
+
+«Depuis des années, on résiste à des demandes similaires dans des pays moins démocratiques qui nous demandent de retirer des contenus au niveau global, parce qu'ils enfreignent des lois locales: la Turquie avec par exemple une loi qui interdit de dénigrer (le fondateur et le premier président de la République de Turquie) Atatürk, la Thaïlande une qui interdit toute critique du roi...», expliquait alors le responsable à l'AFP.
+
+La décision du Conseil d'État ne sera pas connue avant plusieurs semaines
+
+Japon: la Cour suprême rejette une demande de «droit à l'oubli»
+TOKYO - La Cour suprême du Japon a rejeté la demande d'un homme de faire disparaître des informations relatives à son passé judiciaire dans les résultats de recherche du géant américain de l'internet Google, estimant qu'il s'agirait là d'une violation de la liberté d'expression.
+
+Il s'agit de la première décision relative au «droit à l'oubli» numérique prise par la Cour suprême de l'archipel, selon les médias japonais.
+
+«L'effacement d'informations ne peut être autorisé que lorsque l'importance de la protection de la vie privée dépasse largement celle de la nécessité d'informer», a déclaré la cour sur son site internet.
+
+Le tribunal de Saitama, au nord de Tokyo, avait confirmé en décembre 2015 une précédente injonction temporaire demandant à Google de faire disparaître des informations relatives à la condamnation à une amende de cet homme pour prostitution infantile et infractions à caractère pornographique.
+
+Le président de la juridiction avait estimé que, selon la nature de leurs méfaits passés, les délinquants pouvaient avoir «droit à l'oubli au bout d'un certain temps». La Haute cour de Tokyo avait annulé en juillet la décision du tribunal de Saitama, estimant qu'il n'existait légalement pas de telle protection.
+
+L'avocat de l'homme, Tomohiro Kanda, a qualifié la décision prise mardi par la Cour suprême de «décevante», ajoutant que s'assurer qu'un crime ne soit pas oublié ne signifiait pas, selon lui, que le nom d'une personne associée à ce crime doive être «transmis pendant de nombreuses années».
+
+«Nous sommes heureux de constater que dans sa dernière décision, la Cour suprême a reconnu à l'unanimité (...) que toute décision sur l'élimination de données des résultats de recherche devrait donner la priorité au droit du public d'être informé», a déclaré la représentation de Google au Japon.

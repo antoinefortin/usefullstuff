@@ -1,0 +1,19 @@
+La jeune entreprise québécoise AmpMe, fondée par Martin-Luc Archambault, espère frapper un grand coup aujourd'hui avec l'ajout du service Spotify à son application éponyme.
+
+Saisie d'écran de l'application AmpMe... (IMAGE TIRÉE DU SITE D’AMPME) - image 1.0
+Agrandir
+Saisie d'écran de l'application AmpMe
+
+IMAGE TIRÉE DU SITE D’AMPME
+
+AmpMe permet de synchroniser très précisément la lecture musicale sur plusieurs téléphones, les transformant en l'équivalent d'autant de haut-parleurs d'une même « chaîne stéréo ». Au lancement, elle ne fonctionnait toutefois qu'avec la musique offerte par le service SoundCloud. On y a depuis ajouté les bibliothèques musicales des utilisateurs et la musique offerte par YouTube.
+
+« On m'avait dit que les jeunes écoutaient beaucoup la musique par YouTube et, effectivement, l'utilisation de notre application a doublé quand nous avons ajouté cette source, indique M. Archambault. Spotify était la fonctionnalité la plus demandée, et de loin. Est-ce que ça aura autant d'impact que YouTube ? Je l'espère. »
+
+Lancée à l'automne 2015, l'application AmpMe compte un peu plus de 3 millions de téléchargements.
+
+DÉFI TECHNIQUE
+
+Pour parvenir à intégrer Spotify, l'équipe d'AmpMe a dû rivaliser d'ingéniosité, confie M. Archambault.
+
+« Nous avons discuté avec eux parce que leur technologie ne nous permettait pas de positionner la lecture à la milliseconde près, ce dont nous avions besoin. Mais il aurait fallu attendre des années avant qu'ils intègrent cela, donc nous avons tenté d'y arriver avec ce qui était disponible, et nous y sommes arrivés. Ç'a pris plusieurs mois à adapter notre technologie, c'était très difficile à faire. »
